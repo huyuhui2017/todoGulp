@@ -1,0 +1,26 @@
+{
+  "name": "wowow",
+  "version": "1.0.0",
+  "description": "百度网盘下载：http://pan.baidu.com/s/1jGILtzg",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-minify-css":"^1.2.4",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "store2":"^2.5.1",
+    "gulp-less": "^3.3.0",
+    "open": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

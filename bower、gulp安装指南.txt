@@ -1,0 +1,29 @@
+﻿git 上传流程
+	git status   查询
+
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/youzhidong/git_home.git
+	git push -u origin master
+
+ 4.3.0. 安装bower
+	安装：npm install -g bower
+
+ 4.3.1. 安装gulp
+	1. 全局安装 gulp：
+
+		$ npm install --global gulp
+	2. 作为项目的开发依赖（devDependencies）安装：
+
+		$ npm install --save-dev gulp
+	 4.3.2. 安装gulp插件
+		 gulp-clean
+		 gulp-concat
+  		 gulp-connect
+ 		 gulp-cssmin
+ 		 gulp-imagemin
+		 gulp-less
+		 gulp-load-plugins
+		 gulp-uglify
+ 		 open
