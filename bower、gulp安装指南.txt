@@ -2,9 +2,9 @@
 	git status   查询
 
 	git init
-	git add README.md
+	git add README.md(./)
 	git commit -m "first commit"
-	git remote add origin https://github.com/youzhidong/git_home.git
+	git remote add origin https://github.com/huyuhui2017/todoGulp.git
 	git push -u origin master
 
  4.3.0. 安装bower
